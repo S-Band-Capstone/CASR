@@ -1,4 +1,4 @@
-# CASR
+# CASR (Full Release coming soon)
 CASR stands for Cubesat Amateur S-band Radio, and is an open-source S-Band radio for CubeSats
 
 The objective of this project is primarily educational. The design of the S-Band radio and antenna system achieves this goal in two ways: the capstone members get to learn about and design a radio frequency system for space applications, and even more importantly, the design will then be open sourced and available for any student, design society or young professionals to build, test and even improve the design.
