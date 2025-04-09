@@ -1,6 +1,6 @@
 # CASR (Full Release coming soon)
 
-CASR © 2025 by Concordia University ENGR Capstone Team 5 is licensed under CC BY-NC-SA 4.0 
+[CASR](https://github.com/S-Band-Capstone/CASR) © 2025 by Concordia University ENGR Capstone Team 5 is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 
 
 CASR stands for Cubesat Amateur S-band Radio, and is an open-source S-Band radio for CubeSats
 
